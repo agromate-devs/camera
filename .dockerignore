@@ -1,0 +1,11 @@
+# Keep credentials and local artifacts out of the build context
+camera_config.json
+mosquitto.json
+client_id.txt
+.venv
+__pycache__
+.git
+.DS_Store
+*.pdf
+*.code-workspace
+index.html
